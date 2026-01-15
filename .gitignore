@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+.venv/
+
+# Debug files
+debug_*.png
+debug_*.html
+debug_*.py
+
+# Test files
+test_*.xlsx
+test_*.py
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temp files
+nul
+Untitled
+
+# Logs
+*.log
